@@ -16,12 +16,12 @@
 
 ## 🧭 Navigation
 
-- [🧠 system.identity()](#systemidentity)
-- [🧬 build.philosophy()](#buildphilosophy)
-- [⚙️ stack.loadout()](#stackloadout)
-- [🔐 security.layer()](#securitylayer)
-- [⛓️ blockchain.zone()](#blockchainzone)
-- [📊 system.stats()](#systemstats)
+- [🧠 system.identity()](#-systemidentity)
+- [🧬 build.philosophy()](#-buildphilosophy)
+- [⚙️ stack.loadout()](#-stackloadout)
+- [🔐 security.layer()](#-securitylayer)
+- [⛓️ blockchain.zone()](#-blockchainzone)
+- [📊 system.stats()](#-systemstats)
 
 ---
 
