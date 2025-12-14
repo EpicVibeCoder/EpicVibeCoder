@@ -25,7 +25,6 @@
 
 ---
 
-<a id="systemidentity"></a>
 ## 🧠 system.identity()
 
 ```bash
@@ -44,7 +43,6 @@ build → test → break → patch → harden → repeat
 
 ---
 
-<a id="buildphilosophy"></a>
 ## 🧬 build.philosophy()
 
 ```bash
@@ -63,7 +61,6 @@ build → test → break → patch → harden → repeat
 
 ---
 
-<a id="stackloadout"></a>
 ## ⚙️ stack.loadout()
 
 ### 🌐 Frontend
@@ -117,7 +114,6 @@ build → test → break → patch → harden → repeat
 
 ---
 
-<a id="securitylayer"></a>
 ## 🔐 security.layer()
 
 ![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge)
@@ -137,7 +133,6 @@ scan → enumerate → exploit → patch → harden
 
 ---
 
-<a id="blockchainzone"></a>
 ## ⛓️ blockchain.zone()
 
 ![Solidity](https://img.shields.io/badge/Solidity-0d1117?style=for-the-badge&logo=ethereum)
@@ -152,7 +147,6 @@ scan → enumerate → exploit → patch → harden
 
 ---
 
-<a id="systemstats"></a>
 ## 📊 system.stats()
 
 <p align="center">
