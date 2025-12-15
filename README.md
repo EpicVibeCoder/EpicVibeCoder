@@ -153,9 +153,6 @@ scan → enumerate → exploit → patch → harden
   <img src="https://github-readme-stats.vercel.app/api?username=epicVibecoder&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=epicVibecoder&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
