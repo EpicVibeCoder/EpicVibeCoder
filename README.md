@@ -150,12 +150,12 @@ scan → enumerate → exploit → patch → harden
 ## 📊 system.stats()
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EpicVibeCoder&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=epicvibecoder" />
 </p>
 
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:000000&height=90&section=footer&text=fullstack+by+skill.+security+by+habit.+shipping+by+choice.&fontSize=16&fontColor=00ffcc" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=epicvibecoder&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
