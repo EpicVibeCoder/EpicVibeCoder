@@ -20,7 +20,7 @@
 - [🧬 build.philosophy()](#-buildphilosophy)
 - [⚙️ stack.loadout()](#-stackloadout)
 - [🔐 security.layer()](#-securitylayer)
-- [⛓️ blockchain.zone()](#blockchainzone)
+- [⛓️ blockchain.zone()](#-blockchainzone)
 ---
 
 ## 🧠 system.identity()
